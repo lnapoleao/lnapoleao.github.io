@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Lucas Coelho"
 title_separator          : "-"
-subtitle                 : "Welcome to my personal page!"
+subtitle                 : "Engineering, finances, and ramblings"
 name                     : "Lucas Coelho"
 description              : "Personal page to share thoughts and projects"
-url                      : "https://lnapoleao.github.io"
+url                      : "https://lnapoleao.github.io/home"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lnapoleao/lnapoleao.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Lucas Coelho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software engineer"
+  bio              : "Software engineer with interests in robotics, economy, AI, and music"
   location         : "Kitchener, ON"
   email            : "lucas_2009nc@yahoo.com.br"
   links:
